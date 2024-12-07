@@ -1,4 +1,4 @@
-# Pr_blackmarket
+# QB-BlackMarket
 Un sistema de mercado negro para FiveM usando QBCore, desarrollado por Pardo05.
 
 ## Descripción
